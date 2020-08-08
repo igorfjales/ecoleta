@@ -24,3 +24,18 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 O Ecoleta é um marketplace que ajuda pessoas a encontrarem pontos de coleta de resíduos de forma eficiente.
+
+<br>
+<br>
+
+
+### Tela de Home:
+<br>
+<img src="frontend/images/home_web.png">
+
+<br>
+<br>
+
+### Tela de Cadastro:
+<br>
+<img src="frontend/images/cadastro_web.gif">
