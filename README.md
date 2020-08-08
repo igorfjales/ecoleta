@@ -57,7 +57,7 @@ O projeto funciona de modo que a entidade que detém o ponto de coleta se cadast
 
 <br>
 
-<img src="frontend/images/home_mobile.png" width="400" height="650">
+<img src="frontend/images/home_mobile.png" width="400" height="700">
 
 <br>
 
@@ -65,10 +65,10 @@ O projeto funciona de modo que a entidade que detém o ponto de coleta se cadast
 
 <br>
 
-<img src="frontend/images/tela_main_mobile.png" width="400" height="650">
+<img src="frontend/images/tela_main_mobile.png" width="400" height="700">
 
 ### Tela de detalhes do estabelecimento:
 
 <br>
 
-<img src="frontend/images/detalhes_mobile.png" width="400" height="650">
+<img src="frontend/images/detalhes_mobile.png" width="400" height="700">
